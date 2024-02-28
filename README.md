@@ -1,16 +1,16 @@
-# VTScraper
+# vt-scraper
 
-VTScraper is a Python script for scraping and parsing file details and behavior analysis from VirusTotal using Selenium and the PyShadow library for handling shadow DOM elements.
+vt-scraper is a Python script for scraping and parsing file details and behavior analysis from VirusTotal using Selenium and the PyShadow library for handling shadow DOM elements.
 
 ## Installation
 
 1. Clone this repository:
 ```
-git clone https://github.com/<your-username>/VTScraper.git
+git clone https://github.com/<your-username>/vt-scraper.git
 ```
 2. Navigate into the project directory:
 ```
-cd VTScraper
+cd vt-scraper
 ```
 3. Install required dependencies:
 ```
