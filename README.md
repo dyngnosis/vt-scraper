@@ -6,7 +6,7 @@ vt-scraper is a Python script for scraping and parsing file details and behavior
 
 1. Clone this repository:
 ```
-git clone https://github.com/<your-username>/vt-scraper.git
+git clone https://github.com/dyngnosis/vt-scraper.git
 ```
 2. Navigate into the project directory:
 ```
